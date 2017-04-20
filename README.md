@@ -1,4 +1,7 @@
-# test coverage for  [babel-preset-react (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-preset-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-preset-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-preset-react.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-preset-react)
+# npmtest-babel-preset-react
+
+#### basic test coverage for  [babel-preset-react (v6.24.1)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-preset-react.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-preset-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-preset-react.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-preset-react)
+
 #### Babel preset for all React plugins.
 
 [![NPM](https://nodei.co/npm/babel-preset-react.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-preset-react)
